@@ -279,6 +279,11 @@ const config = {
 					"items": [
 						{
 							"label": "Download Booking",
+							"href": "https://dhtmlx.com/docs/products/dhtmlxBooking/download.shtml",
+							"position": "right"
+						},
+						{
+							"label": "Product page",
 							"href": "https://dhtmlx.com/docs/products/dhtmlxBooking/",
 							"position": "right"
 						},
